@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+f2uZJsBZXCbCVfSCk9oh7LDdCQBD0UWPRBdJfA7u8M4NOZJilTLpQCVBRFlFpv/d1alOOJSg/yJ2fs4v8HKA==",
+  "success": true,
+  "projectFilePath": "/Users/rubenmarinez/Me/Work/MT Technologies/MT/proyectos/Funciones Globales/GmailEnviar/GmailEnviar/GmailEnviar.csproj",
+  "expectedPackageFiles": [
+    "/Users/rubenmarinez/.nuget/packages/bouncycastle.cryptography/2.5.0/bouncycastle.cryptography.2.5.0.nupkg.sha512",
+    "/Users/rubenmarinez/.nuget/packages/mailkit/4.9.0/mailkit.4.9.0.nupkg.sha512",
+    "/Users/rubenmarinez/.nuget/packages/mimekit/4.9.0/mimekit.4.9.0.nupkg.sha512",
+    "/Users/rubenmarinez/.nuget/packages/system.formats.asn1/8.0.1/system.formats.asn1.8.0.1.nupkg.sha512",
+    "/Users/rubenmarinez/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "/Users/rubenmarinez/.nuget/packages/system.text.encoding.codepages/8.0.0/system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
